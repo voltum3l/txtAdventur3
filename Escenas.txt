@@ -1,0 +1,22 @@
+0#La arboleda y la ruta abandonada.
+#Al lado de una ruta abandonada. 
+No recuerdo como llegué aqui, pero el aun asi, el lugar no me es extraño. 
+Un frondoso bosque se deja ver al Norte. Detrás se puede observar algunas luces... quizás allí haya algo o alguien que me ayude.
+#Es un claro a un lado de un frondoso bosque, que separa el laboratorio de una ruta abandonada hace anos. La unica posibilidad que tengo es encontrar algun tipo de ayuda en la instalacion. Tengo que ir hacia alla.
+#1#Puerta de Entrada - Laboratorio
+#Una instalación hermética.
+Grandes paneles grises la cubren de solemnidad y secretismo. En otro momento, llegar hasta allí no podía haber sido tarea fácil para quien no perteneciera a un alto rango en el gobierno. Pero el mundo había cambiado y sus reglas no existían más. El cono de seguridad de más de doscientos había sido arrasado tiempo atrás y solo se veían rastros de sangre. 
+Una puerta doble cerraba el paso al interior. 
+Tenía que llegar allí de alguna forma.
+#Esta es la segunda descripcion del laboratorio.
+Me gustaria que sea mas larga pero lo que estoy haciendo es rellenar para probar unas cosas.
+#2#Seguridad Exterior - Perimetro del Laboratorio
+#Una garita de seguridad custodiando el perímetro del laboratorio. Un lugar como este no deberia necesitar guardias de seguridad...
+#El doble alambrado se ve firme y las paredes de concreto se mantuvieron intactas. Pero esta claro que en algun momento, aqui ha pasado algo grave.
+#3#Ala Este del Perimetro - Afuera del Laboratorio
+#Es un sector donde se nota que ha pasado el tiempo. Parece un vertedero, aun asi, es posible que encuentre alguna respuesta.
+#No tengo mucho mas que hacer aqui. Solo quedan trastos inutiles y la sensacion que van a pasar cosas peores.
+#4#Hall de Entrada - Laboratorio
+#Un pasillo largo y oscuro termina en una habitacion con espacios generosos. Las ventanas estan tapadas con madera, pedazos de metal y tela. El nombre del laboratorio cuelga en lo alto y se mece con una brisa que no logro ver de donde proviene.
+#El largo pasillo llega hasta un salon donde un escritorio gigante soporta el peso de varias pantallas y una serie de teclados. Me extrana que no haya sillones. Pareciera ser que lo unico que interesaba en la recepcion era controlar la seguridad. En el fondo, se puede ver que una galeria da lugar a dos pasillos, uno a la izquierda y otro a la derecha.
+#

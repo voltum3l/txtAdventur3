@@ -1,0 +1,132 @@
+0
+guardarail
+Es un guardarail viejo e inutil. Ha sobrevivido a varios golpes.
+Un guardarail sobresale la espesura de la noche. No tiene ningun uso en una ruta abandonada.
+Este es el dynamic2 de guardarail
+0
+1
+bosque
+Es un bosque negro y profundo. Un escalofrio recorre mi cuerpo al imaginar lo que puede vivir en el.
+El bosque se presenta severo y desafiante. Es posible que en otro tiempo, hayan vivido en el numerosos animales.
+Este es el dynamic2 de bosque
+0
+2
+ruta
+Por mas extraño que parezca, se ve que hace un buen tiempo ya nadie la usa. Me pregunto como he llegado hasta aqui.
+Una ruta larga y olvidada. No hay rastro de como he llegado hasta aqui. No puedo volver. Volver... donde.
+Este es el dynamic2 de ruta
+0
+3
+luces
+No tienen mucha intensidad, pero indican que algo alli esta funcionando.
+Las luces se notan lejanas y tenues. Es posible que haya alguien que pueda ayudarme.
+Es la debil iluminacion del exterior del laboratorio.
+0
+4
+panel
+Es un rectangulo de metal que sobresale sobre la pared. Es importante para acceder al laboratorio.
+El panel necesita energia. Puedo ver que utiliza un sistema de reconocimiento fisico de algun tipo.
+Es un panel de reconocimiento ocular que sirve para abrir la puerta de metal.
+1
+5
+ventanas
+Son varias ventanas que recorren todo el perimetro exterior del laboratorio. Se puede ver que estan tapadas desde dentro y que, sin dudas, estan colocadas a una altura elevada.
+Son varias ventanas en los que en otro momento, servían de iluminación. Están demasiado altas.
+Son varias ventanas en los que en otro momento, servían de iluminación. Están demasiado altas.
+1
+6
+zombie
+Es el guardia de seguridad de la garita que me siguio hasta aqui.
+Es el guardia de seguridad. Me siguió hasta aquí. Intento atacarme pero quedo atascado entre los escombros de la parte del edificio que se ha venido abajo. Tengo que hacer algo.
+Es lo que queda del guardia. Esta vez... tuve suerte.
+1
+7
+DISPONIBLE
+dISPONIBLE
+DISPONIBLE
+DISPONIBLE
+0
+8
+metal
+Es un pedazo de una columna que ha quedado expuesto en la pared.
+Un trozo de metal termiado en punta. Posiblemente era parte de una estructura que ya no existe.
+El trozo de metal me ha salvado la vida...
+1
+9
+garita
+Es una garita de seguridad comun. Salvo por la suciedad y el olor que hay alrededor.
+La garita de seguridad esta cerrada. Hay alguien dentro. Tengo que abrirla de alguna forma.
+Ahora solo quedo la garita de seguridad abierta. No hay nada interesante.
+2
+10
+guardia
+Parece que es uno de los guardias de seguridad del laboratorio.
+El cuerpo inerte de un guardia de seguridad, yace dentro de la garita. Es triste y tetrico.
+El guardia tiene una herida de bala sobre la mejilla izquierda. Le sale sangre de la boca. Esta muerto pero aun asi se mueve lentamente. Tengo que golpearlo con algo.
+2
+11
+generador
+Es un generador de electricidad de respaldo.
+Un generador de electricidad se encuentra detras de la garita de seguridad. Me acerco y entiendo que no va a funcionar: le faltan partes del cableado.
+El generador esta completo. Deberia funcionar correctamente siempre y cuando este encendido.
+2
+12
+valla
+Una valla de contención y seguridad. Nada relevante.
+Una valla alargada, pintada de amarillo, se encuentra en posicion elevada. No entiendo la funcion que puede tener en este lugar.
+NADA
+2
+13
+cartel
+El cartel esta sucio. Puedo distinguir -algo-LLA CORP y una figura de un paraguas.
+Un cartel pende de un solo clavo. En otro momento, se hubiera podido leer a decenas de metros de distancia.
+NADA
+2
+14
+porton
+Es un porton de metal. Imposible de franquear.
+El porton esta cerrado. No se ven cerraduras, asi que debe ser operado por un mecanismo especial. Tengo que buscar algo cerca que me sirva...
+El panel ha sido accionado y el porton ya puede abrirse.
+1
+15
+basura
+Veo una cantidad inusual de residuos. Hay bolsas de las que chorrea un liquido. No me quiero acercar.
+El espacio se ha usado como vertedero. Hay basura de todo tipo. Escombros, material descartado, bolsas pequenas y grandes. Nada que llame la atencion.
+NADA
+3
+16
+escombros
+Una cantidad inusual de escombros.
+Cerca de la pared, se erige un erial de escombros. No todos parecen ser de la pared. Este lugar no transmite buenas sensaciones.
+NADA
+3
+17
+palets
+Palets de madera sin usar.
+Dos columnas de palets se han colocado cerca de la pared exterior del complejo. Es posible que hayan sido usados para transportar algo.
+NADA
+3
+18
+alambre
+Es alambre con pinchos. Se usa para poner sobre un muro o paredon y asi, evitar que alguien penetre en una zona.
+Un fino anillo de alambre de metal, a un lado de los palets. Creo que se iba a usar para reforzar la seguridad del lugar, pero algo ha pasado que no pudieron hacerlo.
+NADA.
+3
+19
+sangre
+Manchas escarlatas por todos lados. Es horrendo.
+Un espacio en particular parece sacado de una pelicula de terror. La sangre brota como si fuera un hongo infeccioso.
+NADA
+3
+20
+carne
+Carne de un animal. Podrida. El hedor es insoportable.
+Trozos de carne esparcidos alrededor de la sangre. No quiero ni imaginarme que es lo que ha pasado aqui. Tengo que ir con cuidado.
+NADA
+3
+21
+libros
+Se pueden ver titulos de libros de aventura y terror.
+De entre el material que han descartado, se pueden ver libros y hojas sin usar.
+NADA
+3

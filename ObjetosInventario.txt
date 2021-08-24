@@ -1,0 +1,36 @@
+0
+llave
+Es una llave pequena. Sirve para abrir una armario o una puerta no muy grande.
+Se pueden ver las ruinas de una estructura. Algunos escombros, libros, ropa y una llave.
+Se observan los restos de una estructura que se ha venido abajo. No hay nada interesante.
+3
+1
+cuchillo
+Esta desafilado, pero puede servir para cortar algo no muy grueso, pero no para defenderme.
+Hay algunas cajas apiladas a un costado. Esta todo manchado de sangre. Se ven trozos de carne alrededor y un cuchillo a un lado.
+Las cajas y la sangre. Me repugna de solo verlo.
+3
+2
+cables
+Son cables de respuesto. Hay un cable rojo, otro blanco y uno verde.
+En la pared mas alejada, se pueden ver algunos instrumentos descartados. Unos estan usados, otros nuevos. Veo una jeringa, un pequeno frasco de vidrio usado y unos cables.
+En la pared alejada, solo quedan restos inservibles de material de descarte. No parece que estuvieran aqui desde hace mucho tiempo.
+3
+3
+boligrafo
+Es de una buena marca. No creo que sirva para escribir, pero quizas si para alguna otra cosa.
+desc1
+desc2
+4
+4
+palanca
+Una palanca normal. Aun siendo de metal, no le queda mucho tiempo de vida util. Quizas esta lista para ser usada por ultima vez.
+En el suelo, entre la suciedad y las piedras, se puede ver una palanca de metal a la que le falta un pedazo.
+En el suelo, entre la suciedad y las piedras, ya no queda nada interesante.
+2
+5
+ojo
+Ahora parece una masa viscosa redonda. Huele fuerte.
+Es el ojo del guardia de seguridad. Me pregunto si le podre dar alguna utilidad.
+NADA
+1
