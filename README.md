@@ -9,6 +9,17 @@ Eventualmente, la aventura constará de más de 100 items para usar y 20 escenas
 
 La demo solo tiene 4 escenas jugables.
 
+####################### Requisitos.
+
+Es necesario que en el mismo directorio, se encuentren los archivos:
+ConversationalV2.py
+Escenas.py
+Escenas.txt
+ObjetosInteractivos.py
+ObjetosInteractivos.txt
+ObjetosInventario.py
+ObjetosInteractivos.txt
+
 
 Version 0.2  ///// 24-08-2021
 
